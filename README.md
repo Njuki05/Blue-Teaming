@@ -1,2 +1,2 @@
 # Blue-Teaming
-Defensive security
+Defensive security projects and labs.
